@@ -1,6 +1,6 @@
 # Amazon Product Review Analysis
 
-This project aims to analyze sentiment and compare similarities between Amazon product reviews using natural language processing (NLP) techniques. The code provided utilises Python and several libraries for text processing and analysis.
+This project aims to analyse sentiment and compare similarities between Amazon product reviews using natural language processing (NLP) techniques. The code provided utilises Python and several libraries for text processing and analysis.
 
 ## Modules Required
 
